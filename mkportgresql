@@ -7,3 +7,7 @@ Demo@123456
 
 
  & 'C:\Program Files\Git\bin\bash.exe' 'backend/scripts/test-sprint3-api.sh 
+
+
+ git config --global user.name "Hoang Tuan Phuong"
+git config --global user.email "phuongkun2k5@gmail.com"
